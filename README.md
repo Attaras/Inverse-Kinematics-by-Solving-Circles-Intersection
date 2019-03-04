@@ -1,5 +1,5 @@
 # Inverse-Kinematics-by-Solving-Circles-Intersection
-By intersecting two circles, one centered at the origin and the other centered at the goal point, we can deduce the inverse kinematics by solving for the point sof intersection of the two circles, the analytic solution gets convoluted really fast especially when you start generalizing, but it's not hard at all.
+By intersecting two circles, one centered at the origin and the other centered at the goal point, we can deduce the inverse kinematics by solving for the points of intersection of the two circles, the analytic solution gets convoluted really fast especially when you start generalizing, but it's not hard at all.
 
 ## How it works
 - We have two circles' equations, we equate the two equations and then we solve for y. this is the easy part, now you have an equation for y.
