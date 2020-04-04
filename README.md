@@ -1,4 +1,4 @@
-# Inverse Kinematics by Solving Circles Intersection
+# Inverse Kinematics by Solving Circles Intersection (2 Link Robots)
 By intersecting two circles, one centered at the origin and the other centered at the goal point, we can deduce the inverse kinematics by solving for the points of intersection of the two circles, the analytic solution gets convoluted really fast especially when you start generalizing, but it's not hard at all.
 
 ## How it works
